@@ -3,7 +3,7 @@
 ### 👨‍💻 Sobre mim :
 
 Sou estudante de Engenharia de Software (5º semestre) e desenvolvedor backend.  
-Tenho foco em **Java**, **Spring** e desenvolvimento/manutenção de **sistemas legados**, buscando sempre aplicar boas práticas e código limpo.
+Tenho foco em **Java**, **Spring** e desenvolvimento **FullStack**, buscando sempre aplicar boas práticas e código limpo.
 
 Interessado em arquitetura de software, APIs robustas e evolução de sistemas existentes.
 
