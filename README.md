@@ -3,9 +3,9 @@
 ### 👨‍💻 Sobre mim :
 
 Sou estudante de Engenharia de Software (5º semestre) e desenvolvedor backend.  
-Tenho foco em **Java**, **Spring** e desenvolvimento **FullStack**, buscando sempre aplicar boas práticas e código limpo.
+Tenho foco em **Java**, **Spring** aplicado para o desenvolvimento **Backend/FullStack**.
 
-Interessado em arquitetura de software, APIs robustas e evolução de sistemas existentes.
+Interessado em arquitetura de software, APIs, implementação e desenvolvimento de sistemas web.
 
 ## 🧠 Tech Stacks :
 
@@ -30,7 +30,7 @@ Interessado em arquitetura de software, APIs robustas e evolução de sistemas e
 
 </td>
 
-<td align="center" width="330">
+<td align="center" width="420">
 
 ### 🗄 Databases | tools :
 
@@ -41,6 +41,7 @@ Interessado em arquitetura de software, APIs robustas e evolução de sistemas e
 &nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="45"/>
 
 
 </td>
